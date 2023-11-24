@@ -52,3 +52,7 @@ padding: 16px 0;
     .curso-titulo{
     padding: 24px 0;
     }
+
+    .curso-imagem{
+        width: 30%;
+    }
